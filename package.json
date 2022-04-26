@@ -1,6 +1,6 @@
 {
-  "name": "to-do-app",
-  "homepage": "https://alisamirali.github.io/to-do-app",
+  "name": "todo-app",
+  "homepage": "https://alisamirali.github.io/todo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
